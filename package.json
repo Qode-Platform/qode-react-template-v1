@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
-    "preview": "vite preview",
-    "check:base-path": "node scripts/check-base-path.mjs"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.2.8",
